@@ -23,7 +23,7 @@ namespace Portfolio.Controllers
             SendEmail sendEmail = new SendEmail();
 
             string senderEmailAddress = "umut_dogan_koc@hotmail.com";
-            string senderPassword = "Umutsumeyye1234";
+        
             string receiverSMTP = "smtp-mail.outlook.com";
             int receiverPort = 587;
             string toEmailAddress = "info@umutdogankoc.com";
